@@ -1,3 +1,8 @@
+;; fhtml -- functional html
+;; v0.2
+;; 21.03.2020
+;; by ASZ
+
 (defun list-to-string (lst)
     (format nil "~{~A~}" lst))
 
